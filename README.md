@@ -6,5 +6,5 @@ A lightweight terminal-based keyboard input inspector written in C using `ncurse
 - Boxed terminal UI with a split header (`KEYBOARD TESTER`)
 - Displays the detected character/key name and its numeric code (`ascii value [n]`)
 - Resizes cleanly with the terminal window
-- Footer branding (`BY QUARTZ - version V1.1`)
+
 
